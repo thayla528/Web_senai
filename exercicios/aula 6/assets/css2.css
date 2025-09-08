@@ -1,0 +1,48 @@
+body {
+    background-color: #F5ED8C;
+}
+.titulo{
+
+    text-align:center;
+    color: black;
+
+}
+
+.lista {
+    background-color: white;
+}
+
+.cor1{
+    background-color: gray;
+    color: green;
+}
+.cor2{
+    background-color: gray;
+    text-align:center;
+    color: red;
+}
+
+.cor3{
+    background-color: gray;
+    text-align:center;
+    color: blue;
+}
+.cor4{
+    background-color: gray;
+    text-align: right;
+    color: purple;
+}
+
+.cor5{
+    background-color: gray;
+    text-align:center;
+    color: yellow;
+}
+
+.cor6{
+    background-color: gray;
+    color: pink;
+}
+
+
+

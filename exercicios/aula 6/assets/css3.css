@@ -1,0 +1,83 @@
+body {
+    background-color: #F5ED8C;
+}
+.titulo{
+
+    text-align:center;
+    color: black;
+
+}
+
+.lista {
+    background-color: white;
+}
+
+.cor1{
+    background-color: gray;
+    color: green;
+
+}
+.cor1:hover {
+    background-color: white;
+    color: black;
+}
+.cor2{
+    background-color: gray;
+    text-align:center;
+    color: red;
+}
+
+.cor2:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.cor3{
+    background-color: gray;
+    text-align:center;
+    color: blue;
+}
+
+.cor3:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.cor4{
+    background-color: gray;
+    text-align: right;
+    color: purple;
+}
+
+.cor4:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.cor5{
+    background-color: gray;
+    text-align:center;
+    color: yellow;
+}
+
+.cor5:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.cor6{
+    background-color: gray;
+    color: pink;
+}
+
+.cor6:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+
