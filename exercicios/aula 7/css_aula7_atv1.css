@@ -1,0 +1,38 @@
+.a {
+    background-color: green;
+    height: 100px;
+
+
+}
+
+.b {
+
+    background-color: blue;
+    height: 200px;
+    display: inline-block;
+    width: 49.7%;
+
+}
+.c {
+
+    background-color: yellow;
+    height: 200px;
+    display: inline-block;
+    width:49.7%;
+
+
+}
+.d {
+    background-color: green;
+    height: 100px;
+    display: inline-block;
+    width: 100%;
+
+
+}
+
+ body {
+     background-color: lightblue;
+
+ }
+
