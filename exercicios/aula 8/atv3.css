@@ -1,0 +1,75 @@
+
+body {
+    margin: 25px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+
+
+.Vermelho {
+    display: flex;
+    background-color: red;
+    padding: 20px;
+    margin-bottom: 25px;
+    justify-content: space-between;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    font-size: 22px;
+    align-items: center;
+    font-family: "Arial Black";
+}
+.lista {
+    display: flex;
+    justify-content: space-between;
+
+}
+.lista div{
+    display: flex;
+    margin: 10px;
+}
+
+.azul {
+    display: flex;
+    background-color: #70c6d2;
+
+    margin-bottom: 25px;
+    justify-content: space-evenly;
+
+}
+
+.topico {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+
+}
+
+.a1 {
+    display: flex;
+    height: 250px;
+
+}
+
+
+
+.section {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+
+}
+
+.section div {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    border: 1px solid black;
+    height: 250px;
+    flex: auto;
+
+}

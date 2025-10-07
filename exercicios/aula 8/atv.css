@@ -1,0 +1,36 @@
+body {
+    margin: 50px;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.color-red{
+    background: red;
+    height: 50px;
+    width: 100%;
+    margin: 20px;
+    align-items: center;
+}
+
+.color-blue{
+    background: cadetblue;
+    height: 350px;
+    width: 100%;
+    margin: 20px;
+    align-items: center;
+}
+
+.pai {
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    width: 100%;
+
+}
+
+.pai div{
+    background: lightblue;
+    flex: auto;
+    margin: 15px;
+}
